@@ -1,0 +1,54 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+    background-color: #212121;
+    color: #49faf0;
+  }
+  
+  #heading{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2rem;
+  }
+  
+  .container{
+    height: 150px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  p{
+    font-size: 1rem;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2rem;
+  }
+  
+  .color{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+  }
+  
+  #blue{
+    background-color: blue;
+  }
+  
+  #green{
+    background-color: green;
+  }
+  
+  #red{
+    background-color: red;
+  }
+  
+  #yellow{
+    background-color: yellow;
+  }
